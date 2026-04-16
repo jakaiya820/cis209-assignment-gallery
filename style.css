@@ -27,6 +27,7 @@ a{
 color:blue;
 text-decoration:none;
 }
+/* CONTACT FORM */
 .contact {
 max-width: 600px;
 margin: 20px auto;
@@ -51,16 +52,7 @@ color: white;
 border: none;
 cursor: pointer;
 }
-@media screen and (max-width: 768px) {
-.contact {
-padding: 10px;
-}
-.contact input,
-.contact textarea {
-font-size: 14px;
-}
-}
-/* Navigation styling */
+/* NAVIGATION */
 nav ul{
 list-style:none;
 padding:0;
@@ -75,17 +67,24 @@ text-decoration:none;
 font-weight:bold;
 color:#333;
 }
-/* Main layout */
+/* MAIN */
 main{
 text-align:center;
 margin-top:20px;
 }
-/* Image styling */
+/* IMAGE */
 img{
 border-radius:50%;
 margin-top:15px;
 }
-/* Button styling */
+.profile-img {
+max-width: 200px;
+height: auto;
+border-radius: 10px;
+display: block;
+margin: 20px auto;
+}
+/* BUTTON */
 .btn{
 display:inline-block;
 margin-top:20px;
@@ -94,24 +93,9 @@ background-color:#333;
 color:white;
 text-decoration:none;
 }
+/* VIDEO */
 iframe {
 display: block;
 margin: 20px auto;
 max-width: 100%;
-}
-.resource-table {
-width: 100%;
-border-collapse: collapse;
-background: white;
-margin-top: 10px;
-}
-.resource-table th,
-.resource-table td {
-border: 1px solid #333;
-padding: 12px;
-text-align: left;
-}
-.resource-table th {
-background-color: #333;
-color: white;
 }
