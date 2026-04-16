@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JavaScript Resources</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<header>
+<h1>JavaScript Resources</h1>
+<p>Helpful websites for learning JavaScript</p>
+</header>
+<main>
+<table border="1">
+<tr>
+<th>Website Name</th>
+<th>URL</th>
+<th>Description</th>
+<th>Recommended Page</th>
+</tr>
+<tr>
+<td>W3Schools</td>
+<td><a href="https://www.w3schools.com/js/" target="_blank">w3schools.com/js</a></td>
+<td>Offers beginner-friendly JavaScript tutorials, examples, and exercises.</td>
+<td>JavaScript Tutorial</td>
+</tr>
+<tr>
+<td>MDN Web Docs</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">developer.mozilla.org</a></td>
+<td>Provides detailed explanations, references, and examples for JavaScript concepts.</td>
+<td>JavaScript Guide</td>
+</tr>
+<tr>
+<td>freeCodeCamp</td>
+<td><a href="https://www.freecodecamp.org/" target="_blank">freecodecamp.org</a></td>
+<td>Includes free coding lessons, projects, and certifications for JavaScript.</td>
+<td>JavaScript Algorithms and Data Structures</td>
+</tr>
+<tr>
+<td>JavaScript.info</td>
+<td><a href="https://javascript.info/" target="_blank">javascript.info</a></td>
+<td>Has in-depth tutorials covering basic and advanced JavaScript topics.</td>
+<td>The JavaScript Language</td>
+</tr>
+<tr>
+<td>Codecademy</td>
+<td><a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">codecademy.com</a></td>
+<td>Offers interactive JavaScript lessons and coding practice.</td>
+<td>Introduction to JavaScript</td>
+</tr>
+</table>
+</main>
+<footer>
+<p>Jakaiya Black</p>
+<p><a href="mailto:Jakaiya820@gmail.com">Jakaiya820@gmail.com</a></p>
+</footer>
+</body>
+</html>
