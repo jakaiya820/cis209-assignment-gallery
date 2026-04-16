@@ -99,3 +99,19 @@ display: block;
 margin: 20px auto;
 max-width: 100%;
 }
+.resource-table {
+width: 100%;
+border-collapse: collapse;
+background: white;
+margin-top: 10px;
+}
+.resource-table th,
+.resource-table td {
+border: 1px solid #333;
+padding: 12px;
+text-align: left;
+}
+.resource-table th {
+background-color: #333;
+color: white;
+}
