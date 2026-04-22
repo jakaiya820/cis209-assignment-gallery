@@ -99,3 +99,17 @@ display: block;
 margin: 20px auto;
 max-width: 100%;
 }
+.resume-table {
+width: 80%;
+margin: 20px auto;
+border-collapse: collapse;
+}
+.resume-table th,
+.resume-table td {
+border: 1px solid #333;
+padding: 10px;
+text-align: center;
+}
+.resume-table th {
+background-color: #f4f4f4;
+}
